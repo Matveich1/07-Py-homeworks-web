@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca5f4e1e-07d2-45d6-8058-251b70ed22f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../1first_project/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/app/templates/app/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/first_project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/first_project/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/first_project/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/first_project/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/first_project/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1first_project/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/calculator/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/calculator/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/calculator/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/calculator/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/calculator/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/calculator/templates/calculator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/calculator/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/calculator/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/recipes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/recipes/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/recipes/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/recipes/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2requests-templates/recipes/recipes/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2YWM3hFgnslQr6cjeowxzvYZAeE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/mrdim/OneDrive/Рабочий стол/ДЗ/06Django/2.2-databases-2/m2m-relations"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca5f4e1e-07d2-45d6-8058-251b70ed22f1" name="Changes" comment="" />
+      <created>1700636687319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700636687319</updated>
+    </task>
+    <servers />
+  </component>
+</project>
